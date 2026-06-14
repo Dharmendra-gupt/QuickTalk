@@ -1,0 +1,12 @@
+{
+  "name": "talk-chat-ui",
+  "version": "1.0.0",
+  "description": "WhatsApp-like Chat UI with Typing Animation, Message Grouping, and Dark/Light Mode",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
